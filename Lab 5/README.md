@@ -1,0 +1,2 @@
+# Distance Vector Routing Algorithm
+This program implements a simluation of distributed nodes each communicating their adjacency matrices with each other such that each node can maintain a table with the shortest/least costly path to the other nodes.

@@ -1,0 +1,2 @@
+# Alternating Bit Protocol Simulation
+This program simulates a simple sender/reciever that implements reliable data transer via the Stop and Wait protocol. This means that if the message is corrupted or lost, the sender simply resends the data again after a timeout. It utilizes ACKs and NACKS to verify correct transmission & reception. 

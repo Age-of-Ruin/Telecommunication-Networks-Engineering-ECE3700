@@ -1,0 +1,2 @@
+# Multi-threaded HTTP Server
+Part A implements a simple HTTP server that runs on port 6789. It prints the request and header information recieved by a web browser request (however supplies/sends no response).
